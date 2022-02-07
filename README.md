@@ -8,9 +8,7 @@ Find research paper : [EfficientNet: Rethinking Model Scaling for Convolutional 
 
 ![](https://raw.githubusercontent.com/tensorflow/tpu/master/models/official/efficientnet/g3doc/params.png)
 
-This notebook is an attempt to understand the model architecture, intuition behind EFficientNet, and its implementation on a code-level in Tensorflow-Keras.
+This notebook is an attempt to understand the model architecture, intuition behind EFficientNet, and its implementation on a code-level in Tensorflow-Keras. (Includes all versions of EfficientNet : b0-b7)
 
 This notebook also includes the additional Squeeze Excitation layer module, discussed in the paper and the Inverted Residual Blocks both used for building the entirety of EfficientNet.
 
-# Note: 
-Includes all versions of EfficientNet : b0-b7
