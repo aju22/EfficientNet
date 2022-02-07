@@ -4,6 +4,8 @@ Introduced by Tan et al. in EfficientNet: Rethinking Model Scaling for Convoluti
 
 EfficientNets also transfer well and achieve state-of-the-art accuracy on CIFAR-100 (91.7%), Flowers (98.8%), and 3 other transfer learning datasets, with an order of magnitude fewer parameters.
 
+Find research paper : [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
+
 ![](https://raw.githubusercontent.com/tensorflow/tpu/master/models/official/efficientnet/g3doc/params.png)
 
 This notebook is an attempt to understand the model architecture, intuition behind EFficientNet, and its implementation on a code-level in Tensorflow-Keras.
